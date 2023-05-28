@@ -2,7 +2,7 @@
 
 Simple `fast` TCP-scanner in Bash
 
-Usually local scan time is 1-2 minutes for 65535 ports
+Usually local scan time is 1-2 minutes for 65 535 ports
 
 ## Usage example
 
