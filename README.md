@@ -9,7 +9,7 @@ Usually local scan time is 1-2 minutes for 65 535 ports
 Below is an example of usage:
 
 ```
-$ tcp_bash_scanner 127.0.0.1
+$ ./tcp_bash_scanner.sh 127.0.0.1
 ---[Simple TCP Bash scanner]---
 127.0.0.1:22/tcp is open
 127.0.0.1:8080/tcp is open
